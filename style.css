@@ -20,11 +20,13 @@
   bottom:0;
   min-width: 100%;
   min-height: 100%;
+  border: none;
 }
 
 .footer {
-  font-family: 'Roboto Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #fff;
   text-align: center;
   padding-top: 0.5rem;
+  font-size: 0.7rem;
 }
